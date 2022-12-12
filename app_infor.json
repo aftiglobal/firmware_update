@@ -3,17 +3,31 @@
   [
     { 
       "id": "1",
-      "type": "anfa_4ch",
+      "type": "anfa_1ch",
       "version": "1.01",
       "infor": "Update OTA, Fix led blink, abcd, xyz",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware1.bin"
     },
     { 
       "id": "2",
-      "type": "anfa_1ch",
+      "type": "anfa_2ch",
       "version": "1.00",
       "infor": "Update OTA, Fix led blink, abcd, xyz",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware2.bin"
-    },  
+    },
+    { 
+      "id": "3",
+      "type": "anfa_3ch",
+      "version": "1.00",
+      "infor": "Update OTA, Fix led blink, abcd, xyz",
+      "firmware": "https://aftiglobal.github.io/firmware_update/firmware3.bin"
+    },
+    { 
+      "id": "4",
+      "type": "anfa_4ch",
+      "version": "1.00",
+      "infor": "Update OTA, Fix led blink, abcd, xyz",
+      "firmware": "https://aftiglobal.github.io/firmware_update/firmware4.bin"
+    }     
   ]
 }
