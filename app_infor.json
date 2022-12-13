@@ -3,38 +3,17 @@
   [
     { 
       "id": "1",
-      "type": "anfa_1ch",
-      "version": "1.00",
-      "infor": "Update OTA, Fix led blink, abcd, xyz",
+      "model": "CT-4KSW",
+      "version": "1.02",
+      "infor": "Cập nhật lịch trình hẹn giờ, Sữa lỗi treo thiết bị",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware1.bin"
     },
     { 
       "id": "2",
-      "type": "anfa_2ch",
-      "version": "1.00",
+      "model": "CT-2KSW",
+      "version": "1.02",
       "infor": "Update OTA, Fix led blink, abcd, xyz",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware2.bin"
-    },
-    { 
-      "id": "3",
-      "type": "anfa_3ch",
-      "version": "1.00",
-      "infor": "Update OTA, Fix led blink, abcd, xyz",
-      "firmware": "https://aftiglobal.github.io/firmware_update/firmware3.bin"
-    },
-    { 
-      "id": "4",
-      "type": "anfa_4ch",
-      "version": "1.01",
-      "infor": "Update OTA, Fix led blink, abcd, xyz",
-      "firmware": "https://aftiglobal.github.io/firmware_update/firmware4.bin"
-    },
-    { 
-      "id": "5",
-      "type": "air_sensor",
-      "version": "1.01",
-      "infor": "Update OTA, Fix led blink, abcd, xyz",
-      "firmware": "https://aftiglobal.github.io/firmware_update/firmware5.bin"
     }    
   ]
 }
