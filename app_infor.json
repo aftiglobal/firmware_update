@@ -19,7 +19,7 @@
       "id": "20",
       "model": "CT-4K",
       "version": "1.01",
-      "infor": "Update OTA, Fix led blink, abcd, xyz",
+      "infor": "Sửa lỗi treo thiết bị. Cập nhật mã thiết bị.",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware20.bin"
     },
     { 
