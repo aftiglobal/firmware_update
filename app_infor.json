@@ -21,6 +21,20 @@
       "version": "1.01",
       "infor": "Update OTA, Fix led blink, abcd, xyz",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware20.bin"
+    }; 
+    { 
+      "id": "22",
+      "model": "CT-2K",
+      "version": "1.01",
+      "infor": "Update OTA, Fix led blink, abcd, xyz",
+      "firmware": "https://aftiglobal.github.io/firmware_update/firmware22.bin"
+    };     
+    { 
+      "id": "50",
+      "model": "SE-SA",
+      "version": "1.01",
+      "infor": "Update OTA, Fix led blink, abcd, xyz",
+      "firmware": "https://aftiglobal.github.io/firmware_update/firmware50.bin"
     }    
   ]
 }
