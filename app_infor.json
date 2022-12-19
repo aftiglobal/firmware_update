@@ -4,7 +4,7 @@
     { 
       "id": "1",
       "model": "CT-4KSW",
-      "version": "1.02",
+      "version": "1.03",
       "infor": "Cập nhật lịch trình hẹn giờ, Sữa lỗi treo thiết bị",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware1.bin"
     },
