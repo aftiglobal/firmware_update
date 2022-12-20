@@ -5,28 +5,28 @@
       "id": "1",
       "model": "CT-4KSW",
       "version": "1.01",
-      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sữa lỗi treo thiết bị.",
+      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sửa lỗi treo thiết bị.",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware1.bin"
     },
     { 
       "id": "2",
       "model": "CT-2KSW",
       "version": "1.02",
-      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sữa lỗi treo thiết bị.",
+      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sửa lỗi treo thiết bị.",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware2.bin"
     },
     { 
       "id": "20",
       "model": "CT-4K",
       "version": "1.02",
-      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sữa lỗi treo thiết bị.",
+      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sửa lỗi treo thiết bị.",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware20.bin"
     },
     { 
       "id": "22",
       "model": "CT-2K",
       "version": "1.01",
-      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sữa lỗi treo thiết bị.",
+      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sửa lỗi treo thiết bị.",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware22.bin"
     },   
     { 
