@@ -35,6 +35,13 @@
       "version": "1.01",
       "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sữa lỗi treo thiết bị.",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware50.bin"
-    }    
+    },
+    { 
+      "id": "",
+      "model": "CT-4K",
+      "version": "1.01",
+      "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sữa lỗi treo thiết bị.",
+      "firmware": "https://aftiglobal.github.io/firmware_update/firmware20.bin"
+    }     
   ]
 }
