@@ -25,7 +25,7 @@
     { 
       "id": "22",
       "model": "CT-2K",
-      "version": "1.02",
+      "version": "1.01",
       "infor": "\n\t+ Cập nhật thuộc tính mã thiết bị. \n\t+ Sửa lỗi treo thiết bị. \n\t+ Cập nhật lên 4 kênh điều khiển",
       "firmware": "https://aftiglobal.github.io/firmware_update/firmware20.bin"
     },   
